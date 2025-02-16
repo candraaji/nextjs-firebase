@@ -1,5 +1,7 @@
 # Project Name
 
+NEXTJS Firebase
+
 ## Project Structure
 
 ```
